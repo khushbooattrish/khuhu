@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ileane",
+    "last_name": "Jowle",
+    "email": "ijowle0@ebay.com",
+    "gender": "Female",
+    "salary":13000
+  },
+  {
+    "id": 2,
+    "first_name": "Harcourt",
+    "last_name": "Reilingen",
+    "email": "hreilingen1@miitbeian.gov.cn",
+    
+    "gender": "Male",
+    "salary":13000
+},
+
+  
+  {
+    "id": 3,
+    "first_name": "Falito",
+    "last_name": "Gallichan",
+    "email": "fgallichan2@fastcompany.com",
+    "gender": "Male",
+    "salary":18000
+},
+  
+  {
+    "id": 4,
+    "first_name": "Ephrem",
+    "last_name": "Davidovici",
+    "email": "edavidovici3@amazon.de",
+    "gender": "Male",
+    "salary":21000
+},
+  
+  {
+    "id": 5,
+    "first_name": "Mohammed",
+    "last_name": "Tenaunt",
+    "email": "mtenaunt4@shutterfly.com",
+    "gender": "Male",
+    "salary":18000
+},
+  
+  {
+    "id": 6,
+    "first_name": "Gran",
+    "last_name": "McNee",
+    "email": "gmcnee5@marketwatch.com",
+    "gender": "Male",
+    "salary":20000
+
+  },
+  {
+    "id": 7,
+    "first_name": "Drud",
+    "last_name": "Finnimore",
+    "email": "dfinnimore6@earthlink.net",
+    "gender": "Male",
+    "salary":45000
+  },
+  {
+    "id": 8,
+    "first_name": "Nissie",
+    "last_name": "Colerick",
+    "email": "ncolerick7@bluehost.com",
+    "gender": "Female",
+    "salary":14000
+  },
+  {
+    "id": 9,
+    "first_name": "Laurena",
+    "last_name": "Gilffillan",
+    "email": "lgilffillan8@disqus.com",
+    "gender": "Female",
+    "salary":22000
+},
+  
+  {
+    "id": 10,
+    "first_name": "Cherise",
+    "last_name": "Fortescue",
+    "email": "cfortescue9@hatena.ne.jp",
+    "gender": "Female",
+    "salary":23000
+  }
+]
